@@ -1,0 +1,307 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+                <loc>https://docs.valid.dev/</loc>
+                <priority>1</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/why-secure-compute/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/why-secure-compute/the-web3-potential</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/why-secure-compute/the-need-for-zero-trust</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/why-secure-compute/a-true-web3-development-tool</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/overview-of-secure-compute/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/overview-of-secure-compute/benefits-for-adopting-secure-compute</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/overview-of-secure-compute/core-components</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/overview-of-secure-compute/ecosystem-members</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/valid-registry</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/valid-registry/project-general-information</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/valid-registry/project-specific-information</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/valid-portal</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/validapps</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/validocs</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/introduction/the-secure-compute-platform/valid-nodes</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/</loc>
+                <priority>0.84</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/container/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/control/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/customdatatype/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/panel/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/cardlayout/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/gridlayout/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/stacklayout/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/hstack/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/layout/vstack/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/button/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/barchart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/barstackchart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/linechart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/piechart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/scatterchart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/charts/scatterlinechart/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/checkbox/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/carouselslider/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/codeeditor/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/combobox/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/datepicker/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/icon/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/iframe/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/image/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/input/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/label/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/markdown/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/menu/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/modal/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/module/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/pagination/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/progress/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/radio/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/range/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/switch/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/table/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/tabs/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/tabs/itabs/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/tabs/itab/</loc>
+                <priority>0.56</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/treeview/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+<url>
+                <loc>https://docs.valid.dev/components/upload/</loc>
+                <priority>0.7</priority>
+                <lastmod>2022-08-31</lastmod>
+                </url>
+</urlset>
