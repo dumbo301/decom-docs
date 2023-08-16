@@ -1,1 +1,1 @@
-# [Openswap](.scbook/assets/Validocs-01.svg)
+# [decom](.scbook/assets/decom.svg)

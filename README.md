@@ -9,6 +9,3 @@ The promises of web3 mass adoption are at risk as the only way to currently avoi
 It is from this background that Secure Compute emerges. Secure Compute is the first Zero Trust DApp stack protocol that enables DApps, Documents and project social media accounts and domains to be self-validatable by web3 users. DApps, Documents and projects built and registered through Secure Compute’s VALID platform provides transparency, tamper-resistance, phishing prevention and more in a decentralized platform.
 
 Powered by an ecosystem utility token and guided by a mission to make Web3 a safer environment for all, Secure Compute aims to be the new way of building Web3 DApps and Docs.&#x20;
-
-
-
