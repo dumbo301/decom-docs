@@ -20,4 +20,4 @@
     * [How to Add MicroDapps in Page](howto/add-microdapps-in-page.md)
     * [How to Add Project MicroDapps in Page](howto/add-project-microdapps-in-page.md)
     * [How to Add Charts in Page](howto/add-charts-in-page.md)
-    * [How to Add Composables in Page](howto/add-composables-in-page,md)
+    * [How to Add Composables in Page](howto/add-composables-in-page.md)
