@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=utf-8 />
+    <title>Video</title>
+    <link href="https://unpkg.com/video.js@7.20.3/dist/video-js.css" rel="stylesheet">
+    <script src="https://unpkg.com/video.js@7.20.3/dist/video.js"></script>
+    <script src="https://unpkg.com/@videojs/http-streaming/dist/videojs-http-streaming.js"></script>
+</head>
+<body> 
+    <video-js id="video" class="video-js vjs-theme-city vjs-big-play-centered" controls preload="auto">
+        <source src="./index.m3u8" type="application/x-mpegURL">
+    </video-js>
+    <script>
+        var player = videojs('video', {
+        playsinline: true,
+        autoplay: false,
+        controls: true,
+        fluid: true,
+        aspectRatio: '16:9',
+        responsive: true,
+        inactivityTimeout: 500,
+        preload: 'auto',
+        fill: true,
+        techOrder: ['html5'],
+        plugins: {},
+        });
+    </script>
+
+</body>
+</html>
