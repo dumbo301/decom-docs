@@ -1,1 +1,1 @@
-#How to Add Offers in Page
+# How to Add Offers to Pages
