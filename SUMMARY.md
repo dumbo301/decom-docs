@@ -7,9 +7,10 @@
     * [A True Web3 Development Tool](introduction/why-secure-compute/a-true-web3-development-tool.md)
   * [The Secure Compute Platform](introduction/the-secure-compute-platform/README.md)
     * [Overview of Secure Compute](introduction/the-secure-compute-platform/overview-of-secure-compute/README.md)
-      * [Benefits for Adopting Secure Compute](introduction/the-secure-compute-platform/overview-of-secure-compute/benefits-for-adopting-secure-compute.md)
-      * [Core Components](introduction/the-secure-compute-platform/overview-of-secure-compute/core-components.md)
-      * [Ecosystem Members](introduction/the-secure-compute-platform/overview-of-secure-compute/ecosystem-members.md)
+    * [Benefits for Adopting Secure Compute](introduction/the-secure-compute-platform/overview-of-secure-compute/benefits-for-adopting-secure-compute.md)
   * [Tutorials](howto/README.md)
     * [New Page](howto/new-page.md)
     * [Add Dune Widget](howto/add-dune-widget.md)
+    * [Login](howto/login.md)
+    * [Create New Page](howto/create-page.md)
+    * 
