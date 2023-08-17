@@ -4,7 +4,7 @@
   * [Metamask](https://www.metamask.io)
   * [Wallet Connect](https://walletconnect.com/)
 * At the top right corner, click `Login` 
-  * ![](.scbook\login.jpg)
+  * ![](.scbook/login.jpg)
 * Select whether you are connected with Metamask or Wallet Connect
   * ![](.scbook/login-step2.jpg)
 * Sign at your wallet to conenct the wallet and the site
