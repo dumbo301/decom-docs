@@ -8,4 +8,4 @@
 * Edit the Page Name, Page Description, and the Page Image and click 'Done' when editing is completed.
 * ![](.scbook/page-info-edited.jpg)
 * The edited Page Name can be found at the top-left corner of the page.
-* * ![](.scbook/page-info-edited.jpg)
+* ![](.scbook/page-info-edited.jpg)
