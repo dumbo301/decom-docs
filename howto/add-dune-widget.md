@@ -1,3 +1,8 @@
 # How to add a Dune widget
 
-<video src="./.scbook/assets/video/add-dune-widget.mp4" controls="controls" width="600" height="480"></video>
+ <iframe src="./.scbook/assets/video/add-dune-widget/index.html"  
+ height=480 
+ width=640
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
