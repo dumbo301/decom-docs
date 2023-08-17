@@ -1,6 +1,6 @@
 # How to Create a New Page
 * After successful login, go to `My Pages` on the menu bar
-* ![](.scbook/my-page.jpg)
+* ![](.scbook/my_page.jpg)
 * Then click `Create Page` to create a blank page
 * ![](.scbook/new-page.jpg)
 * Click `Info` button to edit the page information.  These page information will be shown withe the page in 'My Page' tab.
