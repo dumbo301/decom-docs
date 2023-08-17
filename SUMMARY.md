@@ -13,3 +13,4 @@
     * [Add Dune Widget](howto/add-dune-widget.md)
     * [Login](howto/login.md)
     * [Create a New Page](howto/create-new-page.md)
+    * [Edit the Page Settings](howto/edit-page-settings.md)
