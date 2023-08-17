@@ -14,3 +14,6 @@
     * [Login](howto/login.md)
     * [Create a New Page](howto/create-new-page.md)
     * [Edit the Page Settings](howto/edit-page-settings.md)
+    * [Add Section to Page](howto/add-section-in-page.md)
+    * [Edit Section in Page](howto/edit-section-in-page.md)
+    * 
