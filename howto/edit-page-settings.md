@@ -10,11 +10,11 @@ Page Settings manage the page background color, page background image, default w
 
    ![Page Settings Details](../page_setting_details.jpg)
 
-3.  Click `Done` at the lower-right corner when finishs editing
+3. Click `Done` at the lower-right corner when finishs editing
 
    ![Page Settings Details_Edited](../page_setting_details_edited.jpg)
 
-4.  The Page Settings are set
+4. The Page Settings are set
 
    ![Page Settings Edited](../page_setting_edited.jpg)
    
