@@ -4,17 +4,17 @@ Page Settings manage the page background color, page background image, default w
 
 1. Click the Page Settings in the menu
 
-   ![Page Settings](../page_setting.jpg)
+   ![Page Settings](.scbook/page_setting.jpg)
 
 2. When the Page Settings Editor pops out, define the page background color, or the page background image, the default width of sections in the page, the default top/bottom and left/right paddings of sections in page
 
-   ![Page Settings Details](../page_setting_details.jpg)
+   ![Page Settings Details](.scbook/page_setting_details.jpg)
 
-3.  Click `Done` at the lower-right corner when finishs editing
+3. Click `Done` at the lower-right corner when finishs editing
 
-   ![Page Settings Details_Edited](../page_setting_details_edited.jpg)
+   ![Page Settings Details_Edited](.scbook/page_setting_details_edited.jpg)
 
-4.  The Page Settings are set
+4. The Page Settings are set
 
-   ![Page Settings Edited](../page_setting_edited.jpg)
+   ![Page Settings Edited](.scbook/page_setting_edited.jpg)
    
