@@ -12,5 +12,7 @@ There are pre-defined layouts are prepared for use in page.  These predefined la
 
 
 3. Inside a layout, there are two types of widget; either an image widget or a text widget.  Each widget has its own widget menu.  The Widget menu can be called up on top left of the widget when the widget is clicked.
-   * In an image widget menu, there are 4 options - 'Crop', 'Edit', 'Widget Settings', and 'Delete'
-   * In a text widget menu, there are 4 options - 'Edit', 'Theme Settings', 'Widget Setting', and 'Delete'.
+   * In the image widget toolbar ![image_toolbar]('../.scbook/image_widget_toolbar.jpg'), it has 4 options - 'Crop', 'Edit', 'Widget Settings', and 'Delete'
+   * In a text widget toolbar ![text_toolbar]('../.scbook/text_widget_toolbar.jpg'), it has 4 options - 'Edit', 'Theme Settings', 'Widget Setting', and 'Delete'.
+
+
